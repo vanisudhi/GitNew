@@ -1,0 +1,1085 @@
+# Created at 2023-02-12T22:01:39.316
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2023-02-12T22:01:40.767
+Unexpected IOException with stream: [
+
+# Created at 2023-02-12T22:01:40.808
+Unexpected IOException with stream: G
+
+# Created at 2023-02-12T22:01:40.810
+Unexpected IOException with stream: F
+
+# Created at 2023-02-12T22:01:40.812
+Unexpected IOException with stream: X
+
+# Created at 2023-02-12T22:01:40.815
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-12T22:01:40.818
+Unexpected IOException with stream: -
+
+# Created at 2023-02-12T22:01:40.821
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-12T22:01:40.823
+Unexpected IOException with stream: :
+
+# Created at 2023-02-12T22:01:40.825
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.828
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:40.831
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:40.834
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:40.837
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:40.839
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:40.842
+Unexpected IOException with stream: v
+
+# Created at 2023-02-12T22:01:40.844
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:40.849
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.851
+Unexpected IOException with stream: I
+
+# Created at 2023-02-12T22:01:40.854
+Unexpected IOException with stream: P
+
+# Created at 2023-02-12T22:01:40.856
+Unexpected IOException with stream: C
+
+# Created at 2023-02-12T22:01:40.858
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.861
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:40.863
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:40.867
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:40.869
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:40.871
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:40.873
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.875
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:40.877
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:40.879
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:40.883
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:40.885
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.887
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:40.889
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:40.891
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:40.892
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:40.902
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:40.904
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:40.906
+Unexpected IOException with stream: =
+
+# Created at 2023-02-12T22:01:40.911
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:40.917
+Unexpected IOException with stream: b
+
+# Created at 2023-02-12T22:01:40.920
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:40.923
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:40.925
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:40.927
+Unexpected IOException with stream: m
+
+# Created at 2023-02-12T22:01:40.932
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:40.935
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:40.937
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:40.939
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:40.941
+Unexpected IOException with stream: u
+
+# Created at 2023-02-12T22:01:40.944
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:40.948
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:40.951
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:40.953
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:40.955
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:40.957
+Unexpected IOException with stream: 
+
+# Created at 2023-02-12T22:01:40.959
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-12T22:01:40.962
+Unexpected IOException with stream: [
+
+# Created at 2023-02-12T22:01:40.968
+Unexpected IOException with stream: G
+
+# Created at 2023-02-12T22:01:40.973
+Unexpected IOException with stream: F
+
+# Created at 2023-02-12T22:01:40.975
+Unexpected IOException with stream: X
+
+# Created at 2023-02-12T22:01:40.976
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-12T22:01:40.981
+Unexpected IOException with stream: -
+
+# Created at 2023-02-12T22:01:40.985
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-12T22:01:40.991
+Unexpected IOException with stream: :
+
+# Created at 2023-02-12T22:01:40.993
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:40.995
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:40.998
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.000
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.002
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.004
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.006
+Unexpected IOException with stream: v
+
+# Created at 2023-02-12T22:01:41.008
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.010
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.016
+Unexpected IOException with stream: I
+
+# Created at 2023-02-12T22:01:41.019
+Unexpected IOException with stream: P
+
+# Created at 2023-02-12T22:01:41.020
+Unexpected IOException with stream: C
+
+# Created at 2023-02-12T22:01:41.022
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.024
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.026
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.028
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.032
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.034
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.036
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.038
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.039
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.041
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.043
+Unexpected IOException with stream: [
+
+# Created at 2023-02-12T22:01:41.046
+Unexpected IOException with stream: G
+
+# Created at 2023-02-12T22:01:41.049
+Unexpected IOException with stream: F
+
+# Created at 2023-02-12T22:01:41.052
+Unexpected IOException with stream: X
+
+# Created at 2023-02-12T22:01:41.053
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-12T22:01:41.056
+Unexpected IOException with stream: -
+
+# Created at 2023-02-12T22:01:41.059
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-12T22:01:41.061
+Unexpected IOException with stream: :
+
+# Created at 2023-02-12T22:01:41.064
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.067
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.069
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.070
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.072
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.074
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.075
+Unexpected IOException with stream: v
+
+# Created at 2023-02-12T22:01:41.077
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.080
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.083
+Unexpected IOException with stream: I
+
+# Created at 2023-02-12T22:01:41.085
+Unexpected IOException with stream: P
+
+# Created at 2023-02-12T22:01:41.087
+Unexpected IOException with stream: C
+
+# Created at 2023-02-12T22:01:41.089
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.091
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.092
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.094
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.097
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.100
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.102
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.104
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.106
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.107
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.109
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.110
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.112
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.116
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.119
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.124
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.127
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.131
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.136
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.140
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.142
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.146
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.150
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.152
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.155
+Unexpected IOException with stream: =
+
+# Created at 2023-02-12T22:01:41.157
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:41.159
+Unexpected IOException with stream: b
+
+# Created at 2023-02-12T22:01:41.161
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.163
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.167
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.169
+Unexpected IOException with stream: m
+
+# Created at 2023-02-12T22:01:41.171
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.174
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.175
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:41.177
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.180
+Unexpected IOException with stream: u
+
+# Created at 2023-02-12T22:01:41.182
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.184
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.185
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.187
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.188
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.189
+Unexpected IOException with stream: 
+
+# Created at 2023-02-12T22:01:41.191
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-12T22:01:41.192
+Unexpected IOException with stream: [
+
+# Created at 2023-02-12T22:01:41.193
+Unexpected IOException with stream: G
+
+# Created at 2023-02-12T22:01:41.195
+Unexpected IOException with stream: F
+
+# Created at 2023-02-12T22:01:41.197
+Unexpected IOException with stream: X
+
+# Created at 2023-02-12T22:01:41.199
+Unexpected IOException with stream: 1
+
+# Created at 2023-02-12T22:01:41.201
+Unexpected IOException with stream: -
+
+# Created at 2023-02-12T22:01:41.203
+Unexpected IOException with stream: ]
+
+# Created at 2023-02-12T22:01:41.204
+Unexpected IOException with stream: :
+
+# Created at 2023-02-12T22:01:41.205
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.207
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.208
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.209
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.211
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.213
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.216
+Unexpected IOException with stream: v
+
+# Created at 2023-02-12T22:01:41.218
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.221
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.222
+Unexpected IOException with stream: I
+
+# Created at 2023-02-12T22:01:41.223
+Unexpected IOException with stream: P
+
+# Created at 2023-02-12T22:01:41.225
+Unexpected IOException with stream: C
+
+# Created at 2023-02-12T22:01:41.226
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.227
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.232
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.245
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.248
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.250
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.252
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.254
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.256
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.257
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.258
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.259
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.261
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.264
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.267
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.269
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.270
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.272
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.274
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.276
+Unexpected IOException with stream: =
+
+# Created at 2023-02-12T22:01:41.279
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:41.283
+Unexpected IOException with stream: b
+
+# Created at 2023-02-12T22:01:41.285
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.288
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.289
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.291
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.293
+Unexpected IOException with stream: m
+
+# Created at 2023-02-12T22:01:41.301
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.304
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.306
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:41.310
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.313
+Unexpected IOException with stream: u
+
+# Created at 2023-02-12T22:01:41.317
+Unexpected IOException with stream: =
+
+# Created at 2023-02-12T22:01:41.320
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:41.322
+Unexpected IOException with stream: b
+
+# Created at 2023-02-12T22:01:41.324
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.327
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.330
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.336
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.338
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.340
+Unexpected IOException with stream: 
+
+# Created at 2023-02-12T22:01:41.342
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-12T22:01:41.351
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.354
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.356
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.358
+Unexpected IOException with stream: m
+
+# Created at 2023-02-12T22:01:41.360
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.364
+Unexpected IOException with stream: l
+
+# Created at 2023-02-12T22:01:41.367
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:41.370
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.374
+Unexpected IOException with stream: u
+
+# Created at 2023-02-12T22:01:41.379
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.384
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.387
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.390
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.393
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.395
+Unexpected IOException with stream: 
+
+# Created at 2023-02-12T22:01:41.398
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-12T22:01:41.402
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:41.405
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.408
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.410
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.412
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.419
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.422
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.425
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.427
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.450
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.453
+Unexpected IOException with stream: p
+
+# Created at 2023-02-12T22:01:41.470
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.472
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.477
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.482
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.484
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.488
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.493
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.497
+Unexpected IOException with stream: c
+
+# Created at 2023-02-12T22:01:41.504
+Unexpected IOException with stream: r
+
+# Created at 2023-02-12T22:01:41.507
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.510
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.512
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.538
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.542
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.544
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.554
+Unexpected IOException with stream: a
+
+# Created at 2023-02-12T22:01:41.560
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.569
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.571
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.574
+Unexpected IOException with stream: M
+
+# Created at 2023-02-12T22:01:41.576
+Unexpected IOException with stream: O
+
+# Created at 2023-02-12T22:01:41.586
+Unexpected IOException with stream: Z
+
+# Created at 2023-02-12T22:01:41.588
+Unexpected IOException with stream: _
+
+# Created at 2023-02-12T22:01:41.590
+Unexpected IOException with stream: C
+
+# Created at 2023-02-12T22:01:41.594
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.599
+Unexpected IOException with stream: A
+
+# Created at 2023-02-12T22:01:41.603
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:41.605
+Unexpected IOException with stream: H
+
+# Created at 2023-02-12T22:01:41.607
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.611
+Unexpected IOException with stream: E
+
+# Created at 2023-02-12T22:01:41.618
+Unexpected IOException with stream: P
+
+# Created at 2023-02-12T22:01:41.621
+Unexpected IOException with stream: O
+
+# Created at 2023-02-12T22:01:41.623
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.627
+Unexpected IOException with stream: T
+
+# Created at 2023-02-12T22:01:41.638
+Unexpected IOException with stream: E
+
+# Created at 2023-02-12T22:01:41.642
+Unexpected IOException with stream: R
+
+# Created at 2023-02-12T22:01:41.644
+Unexpected IOException with stream: _
+
+# Created at 2023-02-12T22:01:41.650
+Unexpected IOException with stream: S
+
+# Created at 2023-02-12T22:01:41.652
+Unexpected IOException with stream: H
+
+# Created at 2023-02-12T22:01:41.655
+Unexpected IOException with stream: U
+
+# Created at 2023-02-12T22:01:41.657
+Unexpected IOException with stream: T
+
+# Created at 2023-02-12T22:01:41.659
+Unexpected IOException with stream: D
+
+# Created at 2023-02-12T22:01:41.661
+Unexpected IOException with stream: O
+
+# Created at 2023-02-12T22:01:41.664
+Unexpected IOException with stream: W
+
+# Created at 2023-02-12T22:01:41.668
+Unexpected IOException with stream: N
+
+# Created at 2023-02-12T22:01:41.670
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.672
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.674
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.675
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.677
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.679
+Unexpected IOException with stream: e
+
+# Created at 2023-02-12T22:01:41.681
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.684
+Unexpected IOException with stream: ,
+
+# Created at 2023-02-12T22:01:41.687
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.690
+Unexpected IOException with stream: s
+
+# Created at 2023-02-12T22:01:41.692
+Unexpected IOException with stream: h
+
+# Created at 2023-02-12T22:01:41.694
+Unexpected IOException with stream: u
+
+# Created at 2023-02-12T22:01:41.699
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.702
+Unexpected IOException with stream: t
+
+# Created at 2023-02-12T22:01:41.705
+Unexpected IOException with stream: i
+
+# Created at 2023-02-12T22:01:41.707
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.709
+Unexpected IOException with stream: g
+
+# Created at 2023-02-12T22:01:41.710
+Unexpected IOException with stream:  
+
+# Created at 2023-02-12T22:01:41.713
+Unexpected IOException with stream: d
+
+# Created at 2023-02-12T22:01:41.717
+Unexpected IOException with stream: o
+
+# Created at 2023-02-12T22:01:41.718
+Unexpected IOException with stream: w
+
+# Created at 2023-02-12T22:01:41.720
+Unexpected IOException with stream: n
+
+# Created at 2023-02-12T22:01:41.722
+Unexpected IOException with stream: 
+
+# Created at 2023-02-12T22:01:41.723
+Unexpected IOException with stream: 
+
+
+# Created at 2023-02-12T22:01:42.366
+Unexpected IOException: 8,1,vanishreelearning.tests.ErrorValidationTest,ProductErrorValidation(vanishreelearning.tests.ErrorValidationTest),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C isElementDisplayed {id=1788fe93-918a-49b8-81b6-762e27135fcf}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000AElement: [[FirefoxDriver: firefox on WINDOWS (ce275121-fe43-40c6-b8ae-86c3e9f01758)] -> css selector: .ng-animating]\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C isElementDisplayed {id=1788fe93-918a-49b8-81b6-762e27135fcf}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000AElement: [[FirefoxDriver: firefox on WINDOWS (ce275121-fe43-40c6-b8ae-86c3e9f01758)] -> css selector: .ng-animating]\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758,ErrorValidationTest.ProductErrorValidation:43 \00BB UnreachableBrowser Error commu...,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C isElementDisplayed {id=1788fe93-918a-49b8-81b6-762e27135fcf}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000AElement: [[FirefoxDriver: firefox on WINDOWS (ce275121-fe43-40c6-b8ae-86c3e9f01758)] -> css selector: .ng-animating]\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758\000A\0009at vanishreelearning.tests.ErrorValidationTest.ProductErrorValidation(ErrorValidationTest.java:43)\000ACaused by: java.io.UncheckedIOException: java.io.IOException: An existing connection was forcibly closed by the remote host\000A\0009at vanishreelearning.tests.ErrorValidationTest.ProductErrorValidation(ErrorValidationTest.java:43)\000ACaused by: java.io.IOException: An existing connection was forcibly closed by the remote host\000A
+
+
+# Created at 2023-02-12T22:01:42.471
+Unexpected IOException with stream: Feb 12, 2023 10:01:42 PM org.openqa.selenium.remote.http.netty.NettyWebSocket lambda$new$0
+WARNING: Connection refused: no further information: /127.0.0.1:42580
+java.net.ConnectException: Connection refused: no further information: /127.0.0.1:42580
+	at org.asynchttpclient.netty.channel.NettyConnectListener.onFailure(NettyConnectListener.java:179)
+	at org.asynchttpclient.netty.channel.NettyChannelConnector$1.onFailure(NettyChannelConnector.java:108)
+	at org.asynchttpclient.netty.SimpleChannelFutureListener.operationComplete(SimpleChannelFutureListener.java:28)
+	at org.asynchttpclient.netty.SimpleChannelFutureListener.operationComplete(SimpleChannelFutureListener.java:20)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:590)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:583)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:559)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:492)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:636)
+	at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:629)
+	at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:118)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.fulfillConnectPromise(AbstractNioChannel.java:321)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:337)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:42580
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+
+# Created at 2023-02-12T22:01:42.476
+Unexpected IOException with stream: Feb 12, 2023 10:01:42 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection refused: no further information: /127.0.0.1:42580
+java.net.ConnectException: Connection refused: no further information: /127.0.0.1:42580
+	at org.asynchttpclient.netty.channel.NettyConnectListener.onFailure(NettyConnectListener.java:179)
+	at org.asynchttpclient.netty.channel.NettyChannelConnector$1.onFailure(NettyChannelConnector.java:108)
+	at org.asynchttpclient.netty.SimpleChannelFutureListener.operationComplete(SimpleChannelFutureListener.java:28)
+	at org.asynchttpclient.netty.SimpleChannelFutureListener.operationComplete(SimpleChannelFutureListener.java:20)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:590)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:583)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:559)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:492)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:636)
+	at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:629)
+	at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:118)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.fulfillConnectPromise(AbstractNioChannel.java:321)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:337)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: /127.0.0.1:42580
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:779)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+
+# Created at 2023-02-12T22:01:42.483
+Unexpected IOException with stream: Feb 12, 2023 10:01:42 PM org.openqa.selenium.remote.RemoteWebDriver close
+SEVERE: Failed to disconnect DevTools session
+org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://127.0.0.1:42580/devtools/browser/63884c3c-0b68-4600-93f8-93ab98d0a983
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.http.netty.NettyWebSocket.<init>(NettyWebSocket.java:102)
+	at org.openqa.selenium.remote.http.netty.NettyWebSocket.lambda$create$3(NettyWebSocket.java:128)
+	at org.openqa.selenium.remote.http.netty.NettyClient.openSocket(NettyClient.java:107)
+	at org.openqa.selenium.devtools.Connection.<init>(Connection.java:78)
+	at org.openqa.selenium.firefox.FirefoxDriver.maybeGetDevTools(FirefoxDriver.java:269)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:412)
+	at vanishreelearning.testComponents.BaseTest.tearDown(BaseTest.java:89)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:823)
+	at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:792)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:768)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+
+
+# Created at 2023-02-12T22:01:42.542
+Unexpected IOException: 8,1,vanishreelearning.tests.ErrorValidationTest,tearDown(vanishreelearning.tests.ErrorValidationTest),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C close {}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C close {}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758,ErrorValidationTest>BaseTest.tearDown:89 \00BB UnreachableBrowser Error communicat...,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.8.0'\002C revision: '267030adea'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.17'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACommand: [ce275121-fe43-40c6-b8ae-86c3e9f01758\002C close {}]\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 109.0.1\002C moz:accessibilityChecks: false\002C moz:buildID: 20230127170202\002C moz:debuggerAddress: 127.0.0.1:42580\002C moz:geckodriverVersion: 0.32.0\002C moz:headless: false\002C moz:platformVersion: 10.0\002C moz:processID: 15508\002C moz:profile: C:\005CUsers\005CVANISH~1\005CAppData\005CL...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C moz:windowless: false\002C pageLoadStrategy: normal\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://127.0.0.1:42580/devtoo...\002C se:cdpVersion: 85.0\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ce275121-fe43-40c6-b8ae-86c3e9f01758\000ACaused by: java.io.UncheckedIOException: java.net.ConnectException: Connection refused: no further information: localhost/0:0:0:0:0:0:0:1:2960\000ACaused by: java.net.ConnectException: Connection refused: no further information: localhost/0:0:0:0:0:0:0:1:2960\000ACaused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/0:0:0:0:0:0:0:1:2960\000ACaused by: java.net.ConnectException: Connection refused: no further information\000A
+
+
